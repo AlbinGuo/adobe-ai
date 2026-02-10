@@ -1,0 +1,3494 @@
+%!AI-Adobe_Illustrator-3.0
+%%Creator: Python Vector Tracer
+%%Title: page_full_complete.ai
+%%CreationDate: 2026-02-06T16:17:07.657018
+%%Pages: 1
+%%BoundingBox: 0 0 8000 4500
+%%HiResBoundingBox: 0 0 8000 4500
+
+<<
+  /PageSize [8000 4500]
+  /ViewBoxes false
+>> setpagedevice
+
+%% Document Custom Data
+% Total Contours: 145
+% Original Image Size: 8000x4500
+
+% AI_File = extracted/page_full_complete.ai
+% Contours = 145
+
+% Inner path data structure
+/internaldict 256 dict def
+internaldict begin
+  /contours 0 def
+end
+
+
+% Contour 1 - Area: 5450342.5
+% Bounds: 2226-5460 x 1127-3494
+newpath
+5436 2395 moveto
+5283 2614 moveto
+4451 3257 moveto
+4179 3373 moveto
+3929 3361 moveto
+3253 3062 moveto
+2933 2721 moveto
+2690 2585 moveto
+2611 2442 moveto
+2593 2291 moveto
+2261 1664 moveto
+2226 1400 moveto
+2312 1266 moveto
+2471 1168 moveto
+3041 1006 moveto
+3760 1014 moveto
+4337 1137 moveto
+4827 1339 moveto
+5139 1590 moveto
+5422 2053 moveto
+5460 2220 moveto
+closepath
+0.0 setgray
+fill
+
+% Contour 2 - Area: 5447727.5
+% Bounds: 2226-5460 x 1127-3494
+newpath
+5436 2395 moveto
+5460 2220 moveto
+5422 2053 moveto
+5139 1591 moveto
+4819 1335 moveto
+4337 1137 moveto
+3760 1014 moveto
+3041 1006 moveto
+2472 1168 moveto
+2313 1266 moveto
+2226 1400 moveto
+2261 1664 moveto
+2593 2291 moveto
+2611 2442 moveto
+2690 2584 moveto
+2934 2721 moveto
+3254 3062 moveto
+3929 3361 moveto
+4179 3373 moveto
+4450 3257 moveto
+5274 2621 moveto
+closepath
+0.0 setgray
+fill
+
+% Contour 3 - Area: 768645.0
+% Bounds: 3024-4289 x 1413-2692
+newpath
+3796 3087 moveto
+3102 2380 moveto
+3048 2297 moveto
+3024 2150 moveto
+3052 2028 moveto
+3115 1930 moveto
+3234 1845 moveto
+3421 1808 moveto
+3563 1861 moveto
+4289 2613 moveto
+4095 2613 moveto
+3926 2703 moveto
+3862 2775 moveto
+3812 2870 moveto
+3789 2976 moveto
+closepath
+0.0 setgray
+fill
+
+% Contour 4 - Area: 766844.0
+% Bounds: 3024-4289 x 1413-2692
+newpath
+3795 3087 moveto
+3789 2976 moveto
+3812 2870 moveto
+3862 2774 moveto
+3925 2703 moveto
+4009 2645 moveto
+4095 2613 moveto
+4289 2614 moveto
+3562 1861 moveto
+3421 1808 moveto
+3246 1840 moveto
+3134 1912 moveto
+3052 2028 moveto
+3024 2150 moveto
+3047 2294 moveto
+3102 2379 moveto
+closepath
+0.0 setgray
+fill
+
+% Contour 5 - Area: 423240.0
+% Bounds: 2560-3695 x 1275-2924
+newpath
+3689 3225 moveto
+3646 3223 lineto
+3346 3064 moveto
+3110 2878 moveto
+2969 2733 moveto
+3017 2731 lineto
+3006 2691 lineto
+2834 2472 moveto
+2730 2300 moveto
+2614 2172 moveto
+2567 2009 moveto
+2560 1843 moveto
+2590 1706 moveto
+2660 1576 moveto
+2975 1868 moveto
+2909 2009 moveto
+2892 2125 moveto
+2907 2242 moveto
+2955 2351 moveto
+3185 2633 moveto
+3636 3085 moveto
+3695 3166 moveto
+closepath
+0.0 setgray
+fill
+
+% Contour 6 - Area: 421174.0
+% Bounds: 2560-3698 x 1275-2926
+newpath
+3688 3225 moveto
+3698 3174 moveto
+3636 3086 moveto
+3185 2634 moveto
+2955 2352 moveto
+2907 2242 moveto
+2892 2125 moveto
+2909 2009 moveto
+2975 1868 moveto
+2664 1574 moveto
+2593 1698 moveto
+2560 1843 moveto
+2567 2009 moveto
+2614 2171 moveto
+2730 2299 moveto
+2834 2471 moveto
+3006 2690 moveto
+3017 2732 lineto
+2969 2732 lineto
+3111 2878 moveto
+3347 3064 moveto
+3651 3225 moveto
+closepath
+0.0 setgray
+fill
+
+% Contour 7 - Area: 310691.0
+% Bounds: 4519-5445 x 1512-2499
+newpath
+4520 2988 moveto
+4532 2885 moveto
+4519 2796 moveto
+4816 2394 moveto
+4987 2238 moveto
+5351 2004 moveto
+5374 2001 lineto
+5414 2082 moveto
+5437 2175 moveto
+5445 2261 moveto
+5428 2352 moveto
+5254 2443 moveto
+5071 2562 moveto
+closepath
+0.13333333333333333 setgray
+fill
+
+% Contour 8 - Area: 309342.0
+% Bounds: 4518-5445 x 1512-2499
+newpath
+4521 2988 moveto
+5070 2562 moveto
+5248 2446 moveto
+5428 2351 moveto
+5445 2261 moveto
+5437 2175 moveto
+5410 2071 moveto
+5373 2001 moveto
+4988 2238 moveto
+4816 2395 moveto
+4518 2799 moveto
+4532 2885 moveto
+closepath
+0.13725490196078433 setgray
+fill
+
+% Contour 9 - Area: 308132.5
+% Bounds: 4447-5358 x 1718-2774
+newpath
+4507 2782 moveto
+4447 2686 moveto
+4455 2644 lineto
+4485 2648 lineto
+4521 2586 moveto
+4521 2556 lineto
+4486 2496 moveto
+4559 2297 moveto
+4694 2122 moveto
+4859 1947 moveto
+5066 1766 moveto
+5134 1726 moveto
+5285 1872 moveto
+5356 1966 moveto
+5358 1987 lineto
+5024 2200 moveto
+4872 2320 moveto
+4753 2450 moveto
+4589 2690 moveto
+closepath
+0.1411764705882353 setgray
+fill
+
+% Contour 10 - Area: 306541.5
+% Bounds: 4447-5360 x 1718-2774
+newpath
+4508 2782 moveto
+4589 2689 moveto
+4742 2463 moveto
+4871 2320 moveto
+5023 2200 moveto
+5360 1983 moveto
+5278 1865 moveto
+5133 1726 moveto
+5067 1766 moveto
+4860 1947 moveto
+4706 2109 moveto
+4559 2298 moveto
+4486 2496 moveto
+4518 2548 moveto
+4521 2586 lineto
+4486 2648 moveto
+4455 2645 lineto
+4447 2686 lineto
+closepath
+0.1450980392156863 setgray
+fill
+
+% Contour 11 - Area: 280991.5
+% Bounds: 2909-5421 x 1133-2647
+newpath
+5421 2385 moveto
+5281 2593 moveto
+4482 3216 moveto
+4266 3331 moveto
+4032 3367 moveto
+3696 3246 moveto
+3716 3192 moveto
+3683 3124 moveto
+2982 2370 moveto
+2916 2219 moveto
+2909 2057 moveto
+2963 1918 moveto
+3033 1853 moveto
+3069 1895 lineto
+2994 2022 moveto
+2967 2175 moveto
+3026 2373 moveto
+3840 3214 moveto
+4080 3345 moveto
+4217 3334 moveto
+4360 3266 moveto
+4455 3161 moveto
+4522 3004 moveto
+5206 2488 moveto
+closepath
+0.21568627450980393 setgray
+fill
+
+% Contour 12 - Area: 277420.5
+% Bounds: 2909-5421 x 1133-2650
+newpath
+5421 2385 moveto
+5207 2488 moveto
+4522 3005 moveto
+4455 3162 moveto
+4361 3266 moveto
+4217 3334 moveto
+4080 3345 moveto
+3838 3213 moveto
+3026 2374 moveto
+2967 2175 moveto
+2994 2022 moveto
+3069 1895 moveto
+3027 1850 lineto
+2909 2057 moveto
+2916 2219 moveto
+2980 2366 moveto
+3683 3123 moveto
+3716 3192 moveto
+3695 3244 moveto
+4032 3367 moveto
+4266 3331 moveto
+4481 3216 moveto
+5280 2593 moveto
+closepath
+0.22745098039215686 setgray
+fill
+
+% Contour 13 - Area: 217940.5
+% Bounds: 4364-5109 x 2013-2919
+newpath
+4466 2487 moveto
+4364 2374 moveto
+4383 2221 moveto
+4433 2087 moveto
+4530 1943 moveto
+4650 1803 moveto
+4828 1642 moveto
+4910 1581 moveto
+4935 1581 lineto
+5105 1702 moveto
+5109 1716 lineto
+4870 1921 moveto
+4658 2142 moveto
+4546 2299 moveto
+4502 2392 moveto
+4475 2486 moveto
+closepath
+0.39215686274509803 setgray
+fill
+
+% Contour 14 - Area: 216703.5
+% Bounds: 4364-5109 x 2013-2919
+newpath
+4467 2487 moveto
+4540 2309 moveto
+4638 2165 moveto
+4850 1939 moveto
+5109 1715 moveto
+4934 1581 moveto
+4911 1581 lineto
+4829 1642 moveto
+4650 1804 moveto
+4530 1944 moveto
+4433 2088 moveto
+4383 2221 moveto
+4364 2374 moveto
+closepath
+0.396078431372549 setgray
+fill
+
+% Contour 15 - Area: 180280.0
+% Bounds: 4099-4652 x 2028-3160
+newpath
+4234 2472 moveto
+4148 2381 moveto
+4139 2313 moveto
+4172 2298 lineto
+4197 2231 moveto
+4108 2107 moveto
+4099 1816 moveto
+4138 1707 moveto
+4212 1592 moveto
+4336 1445 moveto
+4450 1340 moveto
+4642 1422 moveto
+4652 1437 lineto
+4620 1468 lineto
+4531 1450 moveto
+4487 1478 lineto
+4475 1546 moveto
+4499 1599 moveto
+4344 1790 moveto
+4260 1934 moveto
+4238 2027 moveto
+4239 2270 moveto
+4198 2274 lineto
+4184 2294 lineto
+4194 2354 moveto
+4236 2420 moveto
+closepath
+0.4980392156862745 setgray
+fill
+
+% Contour 16 - Area: 179395.0
+% Bounds: 4099-4652 x 2028-3160
+newpath
+4235 2472 moveto
+4236 2420 moveto
+4196 2359 moveto
+4184 2294 moveto
+4195 2275 lineto
+4239 2270 lineto
+4238 2027 moveto
+4260 1934 moveto
+4344 1789 moveto
+4499 1598 moveto
+4475 1546 moveto
+4487 1477 moveto
+4531 1450 lineto
+4620 1468 moveto
+4652 1436 lineto
+4450 1340 moveto
+4336 1446 moveto
+4212 1593 moveto
+4138 1708 moveto
+4099 1816 moveto
+4108 2107 moveto
+4197 2231 moveto
+4172 2299 moveto
+4139 2314 lineto
+4148 2381 moveto
+closepath
+0.4980392156862745 setgray
+fill
+
+% Contour 17 - Area: 165974.0
+% Bounds: 4250-4905 x 2132-3058
+newpath
+4348 2368 moveto
+4252 2271 moveto
+4250 2039 moveto
+4269 1946 moveto
+4356 1794 moveto
+4511 1603 moveto
+4695 1686 moveto
+4732 1682 lineto
+4756 1664 lineto
+4772 1630 lineto
+4767 1565 moveto
+4634 1479 moveto
+4662 1444 lineto
+4686 1442 lineto
+4905 1567 moveto
+4696 1740 moveto
+4486 1983 moveto
+4385 2161 moveto
+closepath
+0.5372549019607843 setgray
+fill
+
+% Contour 18 - Area: 164847.0
+% Bounds: 4250-4905 x 2132-3059
+newpath
+4349 2368 moveto
+4385 2161 moveto
+4486 1982 moveto
+4695 1740 moveto
+4905 1566 moveto
+4683 1441 moveto
+4663 1444 lineto
+4634 1479 lineto
+4767 1564 moveto
+4772 1630 moveto
+4756 1665 lineto
+4723 1685 lineto
+4687 1684 lineto
+4512 1603 moveto
+4356 1795 moveto
+4269 1946 moveto
+4250 2039 moveto
+4252 2271 moveto
+closepath
+0.5411764705882353 setgray
+fill
+
+% Contour 19 - Area: 154571.0
+% Bounds: 3951-4427 x 2401-3259
+newpath
+4088 2099 moveto
+3999 2002 moveto
+3951 1714 moveto
+3955 1652 moveto
+3983 1533 moveto
+4031 1425 moveto
+4139 1256 moveto
+4171 1241 lineto
+4427 1336 moveto
+4218 1565 moveto
+4116 1727 moveto
+4080 1869 moveto
+closepath
+0.5686274509803921 setgray
+fill
+
+% Contour 20 - Area: 154022.0
+% Bounds: 3951-4427 x 2401-3259
+newpath
+4088 2099 moveto
+4080 1869 moveto
+4118 1722 moveto
+4218 1564 moveto
+4427 1335 moveto
+4171 1241 moveto
+4139 1257 lineto
+4031 1426 moveto
+3983 1533 moveto
+3955 1652 moveto
+3951 1714 moveto
+3999 2002 moveto
+closepath
+0.5686274509803921 setgray
+fill
+
+% Contour 21 - Area: 130108.5
+% Bounds: 3797-4139 x 2520-3327
+newpath
+3978 1980 moveto
+3891 1914 moveto
+3812 1589 moveto
+3798 1472 moveto
+3797 1356 moveto
+3817 1205 moveto
+3834 1173 lineto
+4002 1196 moveto
+4139 1234 moveto
+4023 1414 moveto
+3974 1521 moveto
+3949 1603 moveto
+3942 1705 moveto
+closepath
+0.6352941176470588 setgray
+fill
+
+% Contour 22 - Area: 129887.5
+% Bounds: 3797-4139 x 2520-3327
+newpath
+3977 1980 moveto
+3942 1705 moveto
+3949 1603 moveto
+3974 1521 moveto
+4023 1413 moveto
+4139 1235 moveto
+4002 1196 moveto
+3834 1173 moveto
+3817 1205 lineto
+3797 1356 moveto
+3798 1472 moveto
+3812 1589 moveto
+3890 1911 moveto
+closepath
+0.6352941176470588 setgray
+fill
+
+% Contour 23 - Area: 111764.0
+% Bounds: 3519-3947 x 2329-3324
+newpath
+3947 2171 moveto
+3867 2079 moveto
+3648 1467 moveto
+3589 1352 moveto
+3519 1256 moveto
+3529 1238 lineto
+3613 1199 moveto
+3717 1177 moveto
+3809 1176 moveto
+3784 1358 moveto
+3790 1527 moveto
+3873 1896 moveto
+3858 1958 moveto
+3878 2015 moveto
+3924 2085 moveto
+closepath
+0.6862745098039216 setgray
+fill
+
+% Contour 24 - Area: 111473.0
+% Bounds: 3518-3947 x 2329-3323
+newpath
+3947 2171 moveto
+3924 2085 moveto
+3878 2016 moveto
+3858 1958 moveto
+3873 1896 moveto
+3790 1527 moveto
+3784 1358 moveto
+3809 1177 moveto
+3717 1177 moveto
+3613 1199 moveto
+3518 1253 moveto
+3589 1351 moveto
+3646 1462 moveto
+3865 2074 moveto
+closepath
+0.6901960784313725 setgray
+fill
+
+% Contour 25 - Area: 106395.5
+% Bounds: 2980-4518 x 1303-2734
+newpath
+4518 2891 moveto
+4430 2710 moveto
+3588 1865 moveto
+3425 1796 moveto
+3233 1832 moveto
+3129 1899 moveto
+3039 2026 moveto
+3011 2160 moveto
+3034 2297 moveto
+3799 3112 moveto
+3838 3197 moveto
+3033 2361 moveto
+2980 2159 moveto
+3040 1955 moveto
+3144 1846 moveto
+3287 1780 moveto
+3439 1766 moveto
+3574 1816 moveto
+4451 2720 moveto
+closepath
+0.7019607843137254 setgray
+fill
+
+% Contour 26 - Area: 102596.0
+% Bounds: 2980-4518 x 1303-2734
+newpath
+4518 2889 moveto
+4451 2721 moveto
+3573 1816 moveto
+3439 1766 moveto
+3287 1780 moveto
+3145 1846 moveto
+3040 1956 moveto
+2980 2159 moveto
+3033 2360 moveto
+3839 3197 moveto
+3799 3113 moveto
+3035 2300 moveto
+3011 2160 moveto
+3043 2016 moveto
+3128 1899 moveto
+3226 1835 moveto
+3425 1796 moveto
+3584 1861 moveto
+4430 2709 moveto
+closepath
+0.7137254901960784 setgray
+fill
+
+% Contour 27 - Area: 67723.5
+% Bounds: 4055-4346 x 1334-1630
+newpath
+4153 3162 moveto
+4123 3150 lineto
+4098 3132 lineto
+4068 3091 lineto
+4055 3041 lineto
+4056 3007 lineto
+4064 2975 lineto
+4089 2930 lineto
+4135 2891 lineto
+4165 2878 lineto
+4196 2871 lineto
+4227 2870 lineto
+4256 2876 lineto
+4298 2900 lineto
+4320 2924 lineto
+4335 2950 lineto
+4346 2991 lineto
+4346 3023 lineto
+4338 3058 lineto
+4309 3109 moveto
+4262 3148 lineto
+4206 3166 moveto
+closepath
+0.8117647058823529 setgray
+fill
+
+% Contour 28 - Area: 67496.5
+% Bounds: 3429-3844 x 2438-3235
+newpath
+3844 2062 moveto
+3760 1968 moveto
+3692 1773 moveto
+3616 1628 moveto
+3540 1525 moveto
+3429 1413 moveto
+3445 1331 moveto
+3496 1265 moveto
+3512 1268 lineto
+3554 1320 moveto
+3624 1446 moveto
+3727 1709 moveto
+closepath
+0.8117647058823529 setgray
+fill
+
+% Contour 29 - Area: 67475.5
+% Bounds: 4055-4346 x 1334-1630
+newpath
+4136 3156 moveto
+4167 3165 lineto
+4206 3166 lineto
+4247 3155 lineto
+4297 3121 lineto
+4332 3072 lineto
+4346 3023 lineto
+4346 2991 lineto
+4338 2958 lineto
+4313 2916 lineto
+4288 2893 lineto
+4261 2878 lineto
+4236 2871 lineto
+4206 2870 lineto
+4152 2883 moveto
+4122 2900 lineto
+4095 2924 lineto
+4066 2970 lineto
+4055 3017 lineto
+4056 3050 lineto
+4064 3081 lineto
+4091 3124 lineto
+closepath
+0.8117647058823529 setgray
+fill
+
+% Contour 30 - Area: 66988.0
+% Bounds: 3429-3844 x 2438-3235
+newpath
+3844 2062 moveto
+3732 1723 moveto
+3629 1458 moveto
+3554 1321 moveto
+3511 1268 moveto
+3497 1265 lineto
+3444 1334 moveto
+3429 1413 moveto
+3540 1524 moveto
+3616 1627 moveto
+3690 1768 moveto
+3760 1967 moveto
+closepath
+0.8117647058823529 setgray
+fill
+
+% Contour 31 - Area: 34785.5
+% Bounds: 4110-4318 x 1366-1578
+newpath
+4172 3129 moveto
+4153 3120 lineto
+4139 3109 lineto
+4127 3095 lineto
+4117 3076 lineto
+4111 3054 lineto
+4110 3027 lineto
+4120 2988 lineto
+4131 2969 lineto
+4150 2948 lineto
+4179 2930 lineto
+4208 2922 lineto
+4236 2922 lineto
+4262 2929 lineto
+4280 2939 lineto
+4295 2953 lineto
+4311 2980 lineto
+4317 3003 lineto
+4318 3025 lineto
+4308 3066 lineto
+4285 3100 lineto
+4270 3113 lineto
+4249 3125 lineto
+4215 3134 lineto
+4194 3134 lineto
+closepath
+0.9019607843137255 setgray
+fill
+
+% Contour 32 - Area: 34613.5
+% Bounds: 4110-4318 x 1366-1578
+newpath
+4172 3129 moveto
+4194 3134 lineto
+4215 3134 lineto
+4244 3127 lineto
+4282 3102 lineto
+4298 3083 lineto
+4310 3061 lineto
+4318 3025 lineto
+4317 3003 lineto
+4311 2980 lineto
+4295 2954 lineto
+4279 2939 lineto
+4262 2929 lineto
+4236 2922 lineto
+4208 2922 lineto
+4182 2929 lineto
+4151 2948 lineto
+4131 2970 lineto
+4119 2991 lineto
+4110 3027 lineto
+4111 3054 lineto
+4117 3076 lineto
+4140 3109 lineto
+closepath
+0.9019607843137255 setgray
+fill
+
+% Contour 33 - Area: 33961.5
+% Bounds: 4201-4516 x 1873-2208
+newpath
+4479 2623 moveto
+4471 2627 lineto
+4455 2623 lineto
+4236 2396 moveto
+4201 2331 moveto
+4206 2310 lineto
+4219 2297 lineto
+4241 2292 lineto
+4258 2302 lineto
+4498 2539 moveto
+4516 2579 lineto
+closepath
+0.9019607843137255 setgray
+fill
+
+% Contour 34 - Area: 33777.0
+% Bounds: 2671-2979 x 1817-2219
+newpath
+2979 2683 moveto
+2910 2680 moveto
+2844 2659 moveto
+2778 2617 moveto
+2725 2559 moveto
+2690 2492 moveto
+2672 2416 moveto
+2671 2388 lineto
+2694 2281 moveto
+2713 2296 lineto
+2735 2333 lineto
+2747 2369 lineto
+2763 2458 moveto
+2799 2534 moveto
+2821 2561 lineto
+2858 2593 lineto
+2952 2645 moveto
+closepath
+0.9058823529411765 setgray
+fill
+
+% Contour 35 - Area: 33461.5
+% Bounds: 2671-2978 x 1817-2219
+newpath
+2978 2683 moveto
+2951 2645 lineto
+2857 2593 moveto
+2829 2570 lineto
+2799 2535 lineto
+2775 2492 lineto
+2763 2458 lineto
+2737 2338 moveto
+2716 2301 lineto
+2695 2281 lineto
+2671 2388 moveto
+2672 2416 lineto
+2690 2492 moveto
+2725 2558 moveto
+2779 2617 moveto
+2845 2659 moveto
+2910 2680 moveto
+closepath
+0.9058823529411765 setgray
+fill
+
+% Contour 36 - Area: 33387.5
+% Bounds: 4201-4516 x 1873-2208
+newpath
+4478 2623 moveto
+4516 2578 lineto
+4498 2540 lineto
+4257 2302 moveto
+4241 2292 lineto
+4220 2297 lineto
+4202 2318 lineto
+4201 2331 lineto
+4236 2395 moveto
+4456 2623 moveto
+4464 2627 lineto
+closepath
+0.9058823529411765 setgray
+fill
+
+% Contour 37 - Area: 32708.0
+% Bounds: 3876-4187 x 2217-2562
+newpath
+4172 2264 moveto
+4138 2283 lineto
+4127 2282 lineto
+3917 2049 moveto
+3894 2017 lineto
+3876 1981 lineto
+3879 1963 lineto
+3893 1945 lineto
+3914 1938 lineto
+3933 1952 lineto
+4162 2195 moveto
+4187 2237 lineto
+4183 2251 lineto
+closepath
+0.9058823529411765 setgray
+fill
+
+% Contour 38 - Area: 32404.0
+% Bounds: 3427-3741 x 2547-3062
+newpath
+3741 1953 moveto
+3682 1893 moveto
+3654 1810 moveto
+3593 1715 moveto
+3537 1658 moveto
+3441 1583 moveto
+3427 1476 moveto
+3430 1438 lineto
+3528 1529 moveto
+3612 1643 moveto
+3683 1784 moveto
+closepath
+0.9098039215686274 setgray
+fill
+
+% Contour 39 - Area: 32141.0
+% Bounds: 3876-4187 x 2217-2562
+newpath
+4171 2264 moveto
+4183 2250 lineto
+4187 2237 lineto
+4162 2196 lineto
+3932 1952 moveto
+3914 1938 lineto
+3905 1938 lineto
+3894 1945 lineto
+3881 1960 lineto
+3876 1981 lineto
+3917 2048 moveto
+4128 2282 moveto
+4138 2283 lineto
+closepath
+0.9098039215686274 setgray
+fill
+
+% Contour 40 - Area: 31919.0
+% Bounds: 3427-3740 x 2547-3062
+newpath
+3740 1953 moveto
+3684 1787 moveto
+3618 1654 moveto
+3535 1538 moveto
+3431 1438 moveto
+3427 1476 lineto
+3441 1582 moveto
+3538 1658 moveto
+3593 1714 moveto
+3641 1783 moveto
+3682 1892 moveto
+closepath
+0.9098039215686274 setgray
+fill
+
+% Contour 41 - Area: 31821.5
+% Bounds: 2461-3008 x 2641-3184
+newpath
+2992 1858 moveto
+2984 1859 lineto
+2465 1360 moveto
+2461 1349 lineto
+2485 1316 lineto
+3006 1827 moveto
+3008 1839 lineto
+closepath
+0.9098039215686274 setgray
+fill
+
+% Contour 42 - Area: 30766.0
+% Bounds: 2462-3007 x 2641-3183
+newpath
+3007 1840 moveto
+3006 1828 lineto
+2486 1317 moveto
+2462 1348 lineto
+2465 1359 lineto
+2985 1859 moveto
+closepath
+0.9137254901960784 setgray
+fill
+
+% Contour 43 - Area: 29481.0
+% Bounds: 2881-3336 x 3350-3462
+newpath
+2881 1099 moveto
+2887 1088 lineto
+2902 1114 lineto
+2917 1127 lineto
+2940 1136 lineto
+2972 1139 lineto
+2959 1113 lineto
+2959 1091 lineto
+2973 1070 lineto
+2992 1062 lineto
+3237 1038 moveto
+3254 1044 lineto
+3266 1057 lineto
+3269 1084 lineto
+3264 1105 lineto
+3268 1107 lineto
+3309 1086 lineto
+3329 1041 lineto
+3336 1052 lineto
+3316 1095 lineto
+3285 1115 lineto
+3249 1125 lineto
+3019 1150 moveto
+2939 1145 moveto
+2902 1134 lineto
+2889 1120 lineto
+closepath
+0.9176470588235294 setgray
+fill
+
+% Contour 44 - Area: 29325.0
+% Bounds: 2881-3336 x 3350-3462
+newpath
+2881 1099 moveto
+2889 1119 lineto
+2903 1134 lineto
+2939 1145 lineto
+3019 1150 moveto
+3249 1125 moveto
+3282 1116 lineto
+3316 1094 lineto
+3336 1052 lineto
+3330 1041 lineto
+3309 1087 lineto
+3264 1106 lineto
+3267 1060 lineto
+3256 1046 lineto
+3237 1038 lineto
+2992 1062 moveto
+2974 1070 lineto
+2959 1091 lineto
+2959 1113 lineto
+2973 1139 lineto
+2922 1130 moveto
+2902 1115 lineto
+2886 1088 lineto
+closepath
+0.9176470588235294 setgray
+fill
+
+% Contour 45 - Area: 22593.0
+% Bounds: 4489-4759 x 2826-2993
+newpath
+4757 1642 moveto
+4746 1658 lineto
+4729 1669 lineto
+4710 1674 lineto
+4690 1672 lineto
+4505 1578 moveto
+4489 1561 lineto
+4489 1544 lineto
+4498 1529 lineto
+4520 1512 lineto
+4542 1507 lineto
+4559 1510 lineto
+4748 1607 moveto
+4759 1621 lineto
+closepath
+0.9333333333333333 setgray
+fill
+
+% Contour 46 - Area: 22337.0
+% Bounds: 4488-4759 x 2826-2993
+newpath
+4757 1642 moveto
+4759 1621 lineto
+4750 1609 lineto
+4559 1510 moveto
+4542 1507 lineto
+4523 1511 lineto
+4508 1520 lineto
+4489 1544 lineto
+4488 1558 lineto
+4493 1567 lineto
+4506 1578 lineto
+4690 1672 moveto
+4710 1674 lineto
+4726 1670 lineto
+4745 1658 lineto
+closepath
+0.9372549019607843 setgray
+fill
+
+% Contour 47 - Area: 18629.0
+% Bounds: 3446-3660 x 2633-2892
+newpath
+3659 1867 moveto
+3650 1863 lineto
+3615 1831 lineto
+3579 1805 lineto
+3528 1778 moveto
+3487 1764 lineto
+3476 1755 lineto
+3449 1635 moveto
+3446 1608 lineto
+3469 1620 lineto
+3515 1655 lineto
+3589 1729 moveto
+3636 1798 moveto
+3660 1852 moveto
+closepath
+0.9450980392156862 setgray
+fill
+
+% Contour 48 - Area: 18354.0
+% Bounds: 3445-3660 x 2633-2893
+newpath
+3658 1867 moveto
+3660 1852 lineto
+3636 1799 moveto
+3589 1730 moveto
+3528 1667 moveto
+3448 1607 moveto
+3445 1615 lineto
+3476 1754 moveto
+3490 1765 lineto
+3531 1779 lineto
+3580 1805 lineto
+closepath
+0.9450980392156862 setgray
+fill
+
+% Contour 49 - Area: 15536.5
+% Bounds: 2612-2833 x 1833-2283
+newpath
+2833 2667 moveto
+2782 2642 moveto
+2729 2601 moveto
+2687 2554 lineto
+2645 2484 moveto
+2624 2426 moveto
+2612 2352 moveto
+2616 2270 moveto
+2636 2217 moveto
+2672 2247 lineto
+2681 2265 lineto
+2664 2356 moveto
+2662 2419 moveto
+2669 2467 lineto
+2683 2511 lineto
+2709 2560 lineto
+2738 2596 lineto
+2780 2632 lineto
+closepath
+0.9529411764705882 setgray
+fill
+
+% Contour 50 - Area: 15222.0
+% Bounds: 2612-2832 x 1834-2283
+newpath
+2832 2666 moveto
+2744 2603 moveto
+2716 2571 lineto
+2689 2525 lineto
+2671 2475 lineto
+2662 2419 moveto
+2664 2356 moveto
+2681 2265 moveto
+2672 2248 lineto
+2637 2217 lineto
+2616 2270 moveto
+2612 2352 moveto
+2620 2410 moveto
+2640 2472 moveto
+2671 2530 moveto
+2712 2583 moveto
+2771 2634 moveto
+closepath
+0.9568627450980393 setgray
+fill
+
+% Contour 51 - Area: 9679.0
+% Bounds: 4181-4252 x 1651-1840
+newpath
+4196 2849 moveto
+4184 2834 lineto
+4181 2823 lineto
+4181 2765 moveto
+4184 2763 lineto
+4185 2688 moveto
+4190 2676 lineto
+4197 2668 lineto
+4211 2661 lineto
+4226 2660 lineto
+4239 2665 lineto
+4247 2673 lineto
+4251 2682 lineto
+4252 2692 lineto
+4221 2832 moveto
+4216 2839 lineto
+closepath
+0.9725490196078431 setgray
+fill
+
+% Contour 52 - Area: 9622.0
+% Bounds: 4181-4252 x 1651-1840
+newpath
+4197 2849 moveto
+4215 2839 lineto
+4221 2832 lineto
+4252 2692 moveto
+4251 2682 lineto
+4247 2674 lineto
+4238 2665 lineto
+4226 2660 lineto
+4211 2661 lineto
+4198 2668 lineto
+4190 2677 lineto
+4185 2688 lineto
+4184 2764 moveto
+4181 2766 lineto
+4181 2823 moveto
+4184 2833 lineto
+closepath
+0.9725490196078431 setgray
+fill
+
+% Contour 53 - Area: 9109.0
+% Bounds: 4231-4328 x 1650-1824
+newpath
+4244 2849 moveto
+4231 2834 lineto
+4231 2829 lineto
+4266 2693 moveto
+4273 2684 lineto
+4288 2677 lineto
+4299 2676 lineto
+4311 2679 lineto
+4322 2688 lineto
+4328 2702 lineto
+4327 2715 lineto
+4300 2776 moveto
+4268 2841 moveto
+4258 2848 lineto
+4250 2850 lineto
+closepath
+0.9725490196078431 setgray
+fill
+
+% Contour 54 - Area: 9013.0
+% Bounds: 4231-4328 x 1650-1824
+newpath
+4247 2850 moveto
+4258 2848 lineto
+4268 2840 lineto
+4327 2715 moveto
+4328 2702 lineto
+4326 2695 lineto
+4316 2683 lineto
+4308 2678 lineto
+4294 2676 lineto
+4282 2679 lineto
+4274 2684 lineto
+4265 2696 lineto
+4231 2829 moveto
+4231 2833 lineto
+4238 2843 lineto
+closepath
+0.9725490196078431 setgray
+fill
+
+% Contour 55 - Area: 8432.0
+% Bounds: 3999-4113 x 1184-1338
+newpath
+4015 3311 moveto
+4007 3305 lineto
+4001 3296 lineto
+3999 3283 lineto
+4002 3273 lineto
+4030 3231 lineto
+4077 3167 moveto
+4087 3162 lineto
+4098 3162 lineto
+4103 3164 lineto
+4113 3178 lineto
+4113 3182 lineto
+4057 3303 moveto
+4049 3312 lineto
+4038 3316 lineto
+4025 3315 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 56 - Area: 8406.0
+% Bounds: 4279-4393 x 1638-1792
+newpath
+4284 2862 moveto
+4279 2844 lineto
+4280 2835 lineto
+4325 2745 moveto
+4340 2722 lineto
+4363 2708 lineto
+4367 2709 lineto
+4383 2719 lineto
+4391 2729 lineto
+4393 2745 lineto
+4389 2761 lineto
+4354 2807 lineto
+4310 2858 moveto
+4301 2861 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 57 - Area: 8363.5
+% Bounds: 4488-4758 x 2906-3038
+newpath
+4758 1594 moveto
+4742 1590 lineto
+4566 1499 moveto
+4550 1495 lineto
+4528 1496 lineto
+4491 1516 lineto
+4488 1510 lineto
+4491 1494 lineto
+4506 1476 lineto
+4519 1468 lineto
+4541 1462 lineto
+4564 1466 lineto
+4746 1560 moveto
+4757 1572 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 58 - Area: 8260.0
+% Bounds: 3999-4113 x 1184-1338
+newpath
+4016 3311 moveto
+4025 3315 lineto
+4038 3316 lineto
+4048 3312 lineto
+4057 3302 lineto
+4076 3264 lineto
+4113 3181 moveto
+4102 3164 lineto
+4098 3162 lineto
+4087 3162 lineto
+4077 3168 lineto
+4030 3232 moveto
+4002 3274 lineto
+3999 3283 lineto
+4000 3293 lineto
+4007 3304 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 59 - Area: 8135.5
+% Bounds: 4488-4758 x 2907-3038
+newpath
+4758 1593 moveto
+4757 1572 lineto
+4745 1560 lineto
+4561 1465 moveto
+4541 1462 lineto
+4522 1467 lineto
+4507 1476 lineto
+4490 1497 lineto
+4488 1510 lineto
+4491 1516 lineto
+4510 1503 lineto
+4528 1496 lineto
+4550 1495 lineto
+4566 1499 lineto
+4745 1591 moveto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 60 - Area: 7903.0
+% Bounds: 4320-4453 x 1608-1733
+newpath
+4325 2889 moveto
+4320 2882 lineto
+4320 2865 lineto
+4347 2830 lineto
+4399 2771 moveto
+4412 2767 lineto
+4424 2767 lineto
+4436 2771 lineto
+4453 2793 lineto
+4444 2815 lineto
+4404 2848 lineto
+4346 2891 moveto
+4334 2892 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 61 - Area: 7857.0
+% Bounds: 2970-3253 x 3370-3454
+newpath
+2970 1103 moveto
+2976 1084 lineto
+2998 1073 lineto
+3218 1051 moveto
+3224 1046 lineto
+3245 1054 lineto
+3253 1062 lineto
+3253 1078 lineto
+3246 1102 lineto
+3235 1107 lineto
+3230 1105 lineto
+3228 1084 lineto
+3220 1075 lineto
+3011 1094 moveto
+3000 1103 lineto
+3002 1127 lineto
+2998 1130 lineto
+2983 1124 lineto
+2974 1115 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 62 - Area: 7825.0
+% Bounds: 4079-4161 x 1169-1320
+newpath
+4099 3330 moveto
+4091 3326 lineto
+4084 3319 lineto
+4079 3306 lineto
+4080 3295 lineto
+4123 3190 moveto
+4127 3185 lineto
+4133 3182 lineto
+4146 3180 lineto
+4155 3186 lineto
+4160 3193 lineto
+4161 3198 lineto
+4145 3306 moveto
+4139 3319 lineto
+4128 3328 lineto
+4119 3331 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 63 - Area: 7801.0
+% Bounds: 2970-3253 x 3370-3454
+newpath
+2970 1103 moveto
+2974 1114 lineto
+2984 1124 lineto
+2998 1130 lineto
+3002 1126 lineto
+3000 1102 lineto
+3011 1094 lineto
+3220 1075 moveto
+3227 1081 lineto
+3230 1105 lineto
+3235 1107 lineto
+3242 1105 lineto
+3247 1099 lineto
+3253 1078 lineto
+3253 1062 lineto
+3244 1054 lineto
+3225 1046 lineto
+3218 1051 lineto
+2998 1073 moveto
+2976 1085 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 64 - Area: 7771.0
+% Bounds: 4079-4161 x 1169-1320
+newpath
+4099 3330 moveto
+4119 3331 lineto
+4127 3328 lineto
+4139 3318 lineto
+4145 3306 lineto
+4161 3195 moveto
+4155 3187 lineto
+4146 3180 lineto
+4133 3182 lineto
+4123 3191 lineto
+4103 3236 lineto
+4080 3295 moveto
+4079 3306 lineto
+4081 3313 lineto
+4092 3326 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 65 - Area: 7716.0
+% Bounds: 4320-4453 x 1608-1733
+newpath
+4326 2889 moveto
+4334 2892 lineto
+4345 2891 lineto
+4403 2848 moveto
+4444 2814 lineto
+4453 2794 lineto
+4435 2771 lineto
+4424 2767 lineto
+4407 2768 lineto
+4400 2771 lineto
+4361 2814 lineto
+4320 2866 moveto
+4320 2882 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 66 - Area: 7182.5
+% Bounds: 4354-4492 x 1573-1668
+newpath
+4354 2919 moveto
+4354 2904 lineto
+4357 2897 lineto
+4364 2890 lineto
+4403 2860 lineto
+4440 2835 lineto
+4453 2832 lineto
+4470 2835 lineto
+4477 2841 lineto
+4492 2863 lineto
+4481 2880 lineto
+4472 2890 lineto
+4437 2906 lineto
+4379 2927 moveto
+4369 2927 lineto
+4359 2923 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 67 - Area: 7060.5
+% Bounds: 4353-4492 x 1573-1668
+newpath
+4353 2916 moveto
+4357 2921 lineto
+4369 2927 lineto
+4379 2927 lineto
+4406 2918 lineto
+4468 2892 moveto
+4477 2884 lineto
+4492 2864 lineto
+4477 2842 lineto
+4469 2835 lineto
+4458 2832 lineto
+4443 2834 lineto
+4404 2860 lineto
+4365 2890 lineto
+4357 2898 lineto
+4354 2904 lineto
+closepath
+0.9764705882352941 setgray
+fill
+
+% Contour 68 - Area: 6696.0
+% Bounds: 3143-3318 x 1438-1576
+newpath
+3318 3058 moveto
+3310 3062 lineto
+3272 3051 lineto
+3255 3042 lineto
+3218 3012 lineto
+3162 2961 moveto
+3143 2928 lineto
+3153 2924 lineto
+3162 2926 lineto
+3228 2971 moveto
+3285 3017 moveto
+3316 3049 lineto
+closepath
+0.9803921568627451 setgray
+fill
+
+% Contour 69 - Area: 6458.5
+% Bounds: 3144-3318 x 1438-1576
+newpath
+3318 3057 moveto
+3312 3045 lineto
+3284 3017 lineto
+3223 2968 moveto
+3157 2924 moveto
+3153 2924 lineto
+3144 2929 lineto
+3162 2960 lineto
+3219 3012 moveto
+3256 3042 lineto
+3272 3051 lineto
+3308 3062 lineto
+closepath
+0.9803921568627451 setgray
+fill
+
+% Contour 70 - Area: 5640.0
+% Bounds: 4250-4344 x 1920-2064
+newpath
+4340 2580 moveto
+4331 2576 lineto
+4263 2506 moveto
+4255 2495 lineto
+4250 2479 lineto
+4252 2467 lineto
+4251 2453 lineto
+4254 2437 lineto
+4256 2436 lineto
+4264 2442 lineto
+4301 2483 lineto
+4327 2507 lineto
+4335 2518 lineto
+4340 2528 lineto
+4344 2545 lineto
+4344 2556 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 71 - Area: 5478.0
+% Bounds: 4250-4344 x 1920-2063
+newpath
+4339 2580 moveto
+4343 2563 lineto
+4344 2545 lineto
+4338 2524 lineto
+4327 2508 lineto
+4301 2484 lineto
+4263 2442 lineto
+4255 2437 lineto
+4251 2453 lineto
+4252 2467 lineto
+4250 2475 lineto
+4251 2485 lineto
+4255 2494 lineto
+4263 2505 lineto
+4332 2576 moveto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 72 - Area: 5379.0
+% Bounds: 4353-4443 x 1821-1955
+newpath
+4434 2679 moveto
+4429 2679 lineto
+4399 2646 lineto
+4369 2619 lineto
+4361 2608 lineto
+4356 2597 lineto
+4353 2585 lineto
+4353 2565 lineto
+4357 2546 lineto
+4360 2545 lineto
+4366 2549 lineto
+4439 2625 moveto
+4443 2633 lineto
+4438 2670 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 73 - Area: 5247.0
+% Bounds: 3866-4031 x 1544-1627
+newpath
+4030 2955 moveto
+4015 2956 lineto
+3879 2915 moveto
+3872 2911 lineto
+3867 2905 lineto
+3866 2895 lineto
+3868 2889 lineto
+3874 2879 lineto
+3882 2874 lineto
+3891 2873 lineto
+3898 2875 lineto
+4024 2941 moveto
+4031 2948 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 74 - Area: 5226.0
+% Bounds: 4353-4443 x 1821-1955
+newpath
+4433 2679 moveto
+4436 2676 lineto
+4438 2670 lineto
+4443 2634 lineto
+4439 2626 lineto
+4370 2554 moveto
+4359 2545 lineto
+4357 2547 lineto
+4353 2565 lineto
+4353 2585 lineto
+4356 2597 lineto
+4361 2607 lineto
+4369 2618 lineto
+4391 2637 lineto
+4430 2679 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 75 - Area: 5216.5
+% Bounds: 3970-4080 x 1612-1758
+newpath
+4078 2888 moveto
+4067 2887 lineto
+3972 2779 moveto
+3970 2773 lineto
+3970 2762 lineto
+3973 2754 lineto
+3989 2742 lineto
+3993 2742 lineto
+4005 2749 lineto
+4080 2876 moveto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 76 - Area: 5172.5
+% Bounds: 4040-4120 x 1637-1798
+newpath
+4115 2863 moveto
+4109 2862 lineto
+4102 2856 lineto
+4042 2736 moveto
+4040 2729 lineto
+4041 2716 lineto
+4044 2710 lineto
+4052 2704 lineto
+4058 2702 lineto
+4071 2703 lineto
+4078 2709 lineto
+4082 2717 lineto
+4120 2857 moveto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 77 - Area: 5154.0
+% Bounds: 3867-4031 x 1544-1627
+newpath
+4031 2953 moveto
+4031 2949 lineto
+4023 2941 lineto
+3898 2875 moveto
+3891 2873 lineto
+3882 2874 lineto
+3874 2880 lineto
+3867 2892 lineto
+3867 2904 lineto
+3873 2911 lineto
+3882 2916 lineto
+4015 2956 moveto
+4029 2955 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 78 - Area: 5125.0
+% Bounds: 3945-4038 x 2238-2397
+newpath
+4036 2262 moveto
+4030 2260 lineto
+3981 2209 moveto
+3973 2198 lineto
+3960 2165 lineto
+3945 2103 moveto
+3951 2105 lineto
+3959 2113 lineto
+3982 2142 lineto
+4016 2178 lineto
+4024 2195 lineto
+4029 2212 lineto
+4038 2253 lineto
+4038 2259 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 79 - Area: 5102.5
+% Bounds: 3911-4049 x 1581-1698
+newpath
+4048 2917 moveto
+4044 2919 lineto
+4034 2918 lineto
+3918 2842 moveto
+3914 2838 lineto
+3911 2826 lineto
+3912 2818 lineto
+3915 2812 lineto
+3928 2802 lineto
+3934 2802 lineto
+3942 2805 lineto
+4047 2906 moveto
+4049 2911 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 80 - Area: 5084.5
+% Bounds: 4043-4133 x 2137-2285
+newpath
+4133 2363 moveto
+4126 2361 lineto
+4079 2313 lineto
+4060 2288 lineto
+4053 2275 lineto
+4046 2255 lineto
+4043 2236 lineto
+4043 2223 lineto
+4045 2215 lineto
+4051 2218 lineto
+4076 2247 lineto
+4087 2258 lineto
+4098 2266 lineto
+4114 2284 lineto
+4121 2299 lineto
+4126 2316 lineto
+4133 2355 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 81 - Area: 5083.5
+% Bounds: 4040-4120 x 1637-1798
+newpath
+4114 2863 moveto
+4120 2854 lineto
+4082 2717 moveto
+4072 2704 lineto
+4068 2702 lineto
+4055 2703 lineto
+4048 2707 lineto
+4041 2716 lineto
+4040 2729 lineto
+4042 2736 lineto
+4102 2855 moveto
+4107 2860 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 82 - Area: 5049.5
+% Bounds: 4118-4163 x 1651-1823
+newpath
+4156 2849 moveto
+4154 2849 lineto
+4147 2841 lineto
+4144 2833 lineto
+4118 2707 moveto
+4118 2693 lineto
+4121 2686 lineto
+4131 2679 lineto
+4141 2677 lineto
+4153 2680 lineto
+4156 2683 lineto
+4159 2692 lineto
+4159 2764 moveto
+4163 2768 lineto
+4163 2834 moveto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 83 - Area: 5048.5
+% Bounds: 3843-4017 x 1497-1548
+newpath
+4017 2995 moveto
+3993 3003 lineto
+3991 3000 lineto
+3861 2993 moveto
+3852 2991 lineto
+3845 2985 lineto
+3843 2980 lineto
+3843 2969 lineto
+3847 2959 lineto
+3850 2956 lineto
+3859 2952 lineto
+3875 2952 lineto
+3995 2981 moveto
+4016 2992 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 84 - Area: 5023.5
+% Bounds: 3970-4080 x 1611-1758
+newpath
+4076 2889 moveto
+4079 2886 lineto
+4080 2877 lineto
+4005 2750 moveto
+3990 2742 lineto
+3973 2755 lineto
+3970 2762 lineto
+3970 2773 lineto
+3972 2778 lineto
+4058 2877 moveto
+4068 2887 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 85 - Area: 5021.0
+% Bounds: 3843-4016 x 1497-1548
+newpath
+4016 2994 moveto
+4007 2987 lineto
+3995 2981 lineto
+3875 2952 moveto
+3859 2952 lineto
+3854 2954 lineto
+3847 2960 lineto
+3843 2969 lineto
+3843 2980 lineto
+3845 2984 lineto
+3851 2990 lineto
+3861 2993 lineto
+3992 3000 moveto
+3994 3003 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 86 - Area: 5020.5
+% Bounds: 4118-4163 x 1651-1823
+newpath
+4155 2849 moveto
+4163 2834 lineto
+4163 2768 moveto
+4159 2765 lineto
+4159 2692 moveto
+4156 2684 lineto
+4152 2680 lineto
+4141 2677 lineto
+4131 2679 lineto
+4121 2687 lineto
+4118 2693 lineto
+4118 2707 lineto
+4144 2833 moveto
+4147 2840 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 87 - Area: 4986.0
+% Bounds: 3946-4038 x 2238-2397
+newpath
+4035 2262 moveto
+4038 2258 lineto
+4038 2253 lineto
+4029 2212 lineto
+4024 2195 lineto
+4016 2179 lineto
+3982 2143 lineto
+3959 2114 lineto
+3946 2103 lineto
+3946 2111 lineto
+3960 2165 moveto
+3966 2183 lineto
+3973 2197 lineto
+3981 2208 lineto
+4031 2260 moveto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 88 - Area: 4942.0
+% Bounds: 4043-4133 x 2137-2285
+newpath
+4132 2363 moveto
+4133 2355 lineto
+4126 2316 lineto
+4121 2299 lineto
+4114 2285 lineto
+4097 2266 lineto
+4076 2248 lineto
+4058 2226 lineto
+4046 2215 lineto
+4044 2217 lineto
+4043 2223 lineto
+4044 2245 lineto
+4051 2270 lineto
+4060 2287 lineto
+4073 2305 lineto
+4094 2328 lineto
+4127 2361 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 89 - Area: 4905.5
+% Bounds: 3911-4049 x 1581-1698
+newpath
+4048 2916 moveto
+4049 2911 lineto
+4047 2907 lineto
+3941 2805 moveto
+3934 2802 lineto
+3929 2802 lineto
+3915 2813 lineto
+3912 2818 lineto
+3911 2826 lineto
+3913 2835 lineto
+3919 2842 lineto
+4035 2918 moveto
+4044 2919 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 90 - Area: 4863.0
+% Bounds: 3839-4012 x 1429-1474
+newpath
+3839 3058 moveto
+3839 3046 lineto
+3842 3040 lineto
+3849 3034 lineto
+3862 3030 lineto
+3919 3028 moveto
+3933 3026 lineto
+3994 3026 moveto
+4012 3031 lineto
+4012 3033 lineto
+4005 3038 lineto
+3994 3043 lineto
+3863 3071 moveto
+3847 3070 lineto
+3843 3067 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 91 - Area: 4839.0
+% Bounds: 3839-4012 x 1429-1474
+newpath
+3839 3058 moveto
+3843 3066 lineto
+3848 3070 lineto
+3863 3071 lineto
+3994 3043 moveto
+4012 3032 lineto
+3994 3026 lineto
+3933 3026 moveto
+3919 3028 lineto
+3862 3030 moveto
+3850 3034 lineto
+3842 3041 lineto
+3839 3046 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 92 - Area: 4642.0
+% Bounds: 4193-4239 x 1664-1827
+newpath
+4199 2836 moveto
+4194 2825 lineto
+4193 2805 lineto
+4194 2762 lineto
+4197 2761 lineto
+4198 2690 moveto
+4204 2678 lineto
+4212 2674 lineto
+4223 2673 lineto
+4231 2675 lineto
+4236 2679 lineto
+4239 2687 lineto
+4239 2694 lineto
+4210 2826 moveto
+4202 2836 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 93 - Area: 4631.5
+% Bounds: 3855-4016 x 1356-1432
+newpath
+3856 3133 moveto
+3855 3122 lineto
+3858 3115 lineto
+3863 3110 lineto
+3870 3107 lineto
+4000 3069 moveto
+4010 3068 lineto
+4016 3070 lineto
+4015 3076 lineto
+4008 3084 lineto
+3885 3143 moveto
+3873 3144 lineto
+3860 3139 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 94 - Area: 4616.0
+% Bounds: 4193-4239 x 1664-1827
+newpath
+4200 2836 moveto
+4208 2828 lineto
+4211 2822 lineto
+4239 2694 moveto
+4239 2687 lineto
+4236 2680 lineto
+4232 2676 lineto
+4223 2673 lineto
+4212 2674 lineto
+4205 2678 lineto
+4199 2686 lineto
+4198 2690 lineto
+4197 2762 moveto
+4194 2763 lineto
+4193 2805 lineto
+4194 2825 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 95 - Area: 4550.5
+% Bounds: 3855-4016 x 1356-1432
+newpath
+3855 3130 moveto
+3858 3136 lineto
+3866 3142 lineto
+3882 3144 lineto
+4007 3084 moveto
+4011 3081 lineto
+4016 3071 lineto
+4010 3068 lineto
+4004 3068 lineto
+3870 3107 moveto
+3864 3110 lineto
+3858 3116 lineto
+3855 3122 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 96 - Area: 4527.0
+% Bounds: 3891-4036 x 1289-1393
+newpath
+3897 3208 moveto
+3891 3198 lineto
+3891 3193 lineto
+3896 3182 lineto
+3901 3177 lineto
+4022 3107 moveto
+4035 3107 lineto
+4036 3109 lineto
+4034 3116 lineto
+4030 3121 lineto
+3927 3206 moveto
+3913 3211 lineto
+3904 3211 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 97 - Area: 4349.0
+% Bounds: 3891-4036 x 1289-1394
+newpath
+3897 3207 moveto
+3904 3211 lineto
+3913 3211 lineto
+3926 3206 lineto
+4029 3121 moveto
+4034 3115 lineto
+4036 3109 lineto
+4033 3106 lineto
+4023 3107 lineto
+3902 3177 moveto
+3896 3183 lineto
+3891 3194 lineto
+3891 3197 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 98 - Area: 4339.0
+% Bounds: 4245-4315 x 1663-1811
+newpath
+4249 2837 moveto
+4245 2831 lineto
+4245 2826 lineto
+4275 2702 moveto
+4278 2697 lineto
+4285 2691 lineto
+4291 2689 lineto
+4305 2691 lineto
+4313 2697 lineto
+4315 2702 lineto
+4315 2710 lineto
+4312 2720 lineto
+4261 2829 moveto
+4258 2833 lineto
+4252 2837 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 99 - Area: 4277.5
+% Bounds: 4279-4393 x 1637-1791
+newpath
+4286 2863 moveto
+4309 2858 lineto
+4389 2760 moveto
+4393 2745 lineto
+4391 2736 lineto
+4302 2849 moveto
+4297 2852 lineto
+4290 2850 lineto
+4290 2840 lineto
+4346 2734 moveto
+4352 2729 lineto
+4367 2726 lineto
+4390 2734 lineto
+4392 2732 lineto
+4382 2719 lineto
+4366 2709 lineto
+4336 2727 lineto
+4279 2839 moveto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 100 - Area: 4261.0
+% Bounds: 4245-4315 x 1663-1810
+newpath
+4250 2837 moveto
+4257 2833 lineto
+4261 2828 lineto
+4312 2720 moveto
+4315 2710 lineto
+4315 2702 lineto
+4308 2693 lineto
+4302 2690 lineto
+4288 2690 lineto
+4284 2692 lineto
+4275 2703 lineto
+4245 2826 moveto
+4245 2830 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 101 - Area: 4247.5
+% Bounds: 3948-4056 x 1231-1358
+newpath
+3951 3261 moveto
+3948 3257 lineto
+3948 3246 lineto
+3953 3232 lineto
+4040 3149 moveto
+4047 3144 lineto
+4056 3142 lineto
+4056 3153 lineto
+4054 3158 lineto
+3983 3257 moveto
+3966 3269 lineto
+3961 3268 lineto
+closepath
+0.984313725490196 setgray
+fill
+
+% Contour 102 - Area: 4060.5
+% Bounds: 3948-4056 x 1231-1358
+newpath
+3952 3261 moveto
+3965 3269 lineto
+3983 3256 lineto
+4056 3153 moveto
+4055 3142 lineto
+4050 3143 lineto
+4041 3149 lineto
+3953 3233 moveto
+3948 3246 lineto
+3948 3256 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 103 - Area: 3887.0
+% Bounds: 4016-4095 x 1195-1326
+newpath
+4032 3305 moveto
+4020 3298 lineto
+4016 3294 lineto
+4016 3274 lineto
+4034 3246 lineto
+4081 3181 moveto
+4093 3174 lineto
+4095 3182 lineto
+4093 3194 lineto
+4054 3286 moveto
+4035 3305 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 104 - Area: 3790.5
+% Bounds: 4289-4390 x 1648-1774
+newpath
+4293 2852 moveto
+4297 2852 lineto
+4302 2848 lineto
+4383 2747 moveto
+4383 2743 lineto
+4390 2736 lineto
+4388 2733 lineto
+4379 2728 lineto
+4367 2726 lineto
+4355 2728 lineto
+4346 2735 lineto
+4290 2841 moveto
+4289 2847 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 105 - Area: 3773.0
+% Bounds: 4016-4095 x 1195-1326
+newpath
+4033 3305 moveto
+4038 3302 lineto
+4052 3288 lineto
+4064 3263 lineto
+4095 3188 moveto
+4094 3176 lineto
+4092 3174 lineto
+4081 3182 lineto
+4016 3274 moveto
+4016 3293 lineto
+4021 3298 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 106 - Area: 3736.5
+% Bounds: 4332-4438 x 1619-1723
+newpath
+4332 2878 moveto
+4332 2871 lineto
+4334 2866 lineto
+4404 2782 moveto
+4413 2777 lineto
+4422 2777 lineto
+4432 2783 lineto
+4437 2791 lineto
+4438 2799 lineto
+4436 2805 lineto
+4428 2814 lineto
+4347 2876 moveto
+4339 2881 lineto
+4336 2881 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 107 - Area: 3635.0
+% Bounds: 4092-4147 x 1181-1307
+newpath
+4107 3319 moveto
+4097 3315 lineto
+4094 3312 lineto
+4092 3307 lineto
+4093 3294 lineto
+4129 3206 moveto
+4134 3198 lineto
+4141 3193 lineto
+4142 3194 lineto
+4143 3193 lineto
+4147 3201 lineto
+4147 3208 lineto
+4133 3302 moveto
+4131 3308 lineto
+4124 3316 lineto
+4117 3319 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 108 - Area: 3602.5
+% Bounds: 4092-4147 x 1181-1306
+newpath
+4107 3319 moveto
+4120 3318 lineto
+4129 3310 lineto
+4133 3302 lineto
+4147 3208 moveto
+4147 3202 lineto
+4142 3194 lineto
+4132 3201 lineto
+4127 3211 lineto
+4126 3216 lineto
+4121 3225 lineto
+4093 3294 moveto
+4092 3307 lineto
+4094 3311 lineto
+4098 3315 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 109 - Area: 3572.5
+% Bounds: 4332-4438 x 1619-1723
+newpath
+4332 2877 moveto
+4337 2881 lineto
+4343 2878 lineto
+4427 2814 moveto
+4434 2807 lineto
+4438 2799 lineto
+4437 2791 lineto
+4432 2784 lineto
+4422 2777 lineto
+4413 2777 lineto
+4405 2782 lineto
+4337 2863 moveto
+4332 2871 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 110 - Area: 3301.5
+% Bounds: 4172-4213 x 1186-1302
+newpath
+4185 3314 moveto
+4179 3312 lineto
+4174 3307 lineto
+4172 3301 lineto
+4172 3289 lineto
+4185 3207 moveto
+4193 3198 lineto
+4194 3199 lineto
+4195 3198 lineto
+4200 3205 lineto
+4202 3213 lineto
+4213 3280 moveto
+4213 3291 lineto
+4211 3300 lineto
+4208 3306 lineto
+4202 3312 lineto
+4197 3314 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 111 - Area: 3271.0
+% Bounds: 4172-4213 x 1186-1301
+newpath
+4185 3314 moveto
+4197 3314 lineto
+4201 3312 lineto
+4208 3305 lineto
+4211 3300 lineto
+4213 3291 lineto
+4212 3273 lineto
+4201 3208 moveto
+4194 3199 lineto
+4187 3205 lineto
+4184 3212 lineto
+4178 3248 lineto
+4177 3261 lineto
+4175 3268 lineto
+4173 3288 lineto
+4172 3289 lineto
+4172 3301 lineto
+4174 3306 lineto
+4180 3312 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 112 - Area: 3192.0
+% Bounds: 4366-4473 x 1583-1654
+newpath
+4366 2915 moveto
+4367 2907 lineto
+4369 2903 lineto
+4375 2897 lineto
+4440 2850 moveto
+4451 2846 lineto
+4464 2846 lineto
+4470 2852 lineto
+4473 2859 lineto
+4473 2865 lineto
+4468 2874 lineto
+4460 2882 lineto
+4428 2896 lineto
+4373 2917 moveto
+4369 2917 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 113 - Area: 3184.5
+% Bounds: 4378-4491 x 1532-1581
+newpath
+4378 2963 moveto
+4378 2961 lineto
+4391 2950 lineto
+4470 2919 moveto
+4482 2920 lineto
+4487 2924 lineto
+4491 2934 lineto
+4490 2949 lineto
+4485 2955 lineto
+4476 2959 lineto
+4400 2967 moveto
+4399 2968 lineto
+4389 2968 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 114 - Area: 3157.5
+% Bounds: 4378-4491 x 1532-1581
+newpath
+4378 2962 moveto
+4389 2968 lineto
+4399 2968 lineto
+4400 2967 lineto
+4408 2967 lineto
+4409 2966 lineto
+4476 2959 moveto
+4484 2955 lineto
+4489 2950 lineto
+4491 2946 lineto
+4490 2930 lineto
+4487 2925 lineto
+4479 2919 lineto
+4466 2920 lineto
+4396 2948 moveto
+4389 2952 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 115 - Area: 3126.0
+% Bounds: 4378-4487 x 1461-1502
+newpath
+4487 3009 moveto
+4487 3024 lineto
+4485 3030 lineto
+4479 3036 lineto
+4470 3039 lineto
+4462 3039 lineto
+4461 3038 lineto
+4456 3038 lineto
+4455 3037 lineto
+4450 3037 lineto
+4449 3036 lineto
+4444 3036 lineto
+4443 3035 lineto
+4438 3035 lineto
+4437 3034 lineto
+4432 3034 lineto
+4426 3032 lineto
+4389 3026 lineto
+4378 3020 lineto
+4378 3017 lineto
+4387 3009 lineto
+4410 3006 lineto
+4411 3005 lineto
+4425 3004 lineto
+4426 3003 lineto
+4456 3000 lineto
+4464 2998 lineto
+4479 2999 lineto
+4485 3004 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 116 - Area: 3106.0
+% Bounds: 4366-4473 x 1583-1654
+newpath
+4366 2914 moveto
+4370 2917 lineto
+4373 2917 lineto
+4428 2896 moveto
+4459 2882 lineto
+4468 2873 lineto
+4473 2865 lineto
+4473 2859 lineto
+4470 2853 lineto
+4463 2846 lineto
+4451 2846 lineto
+4441 2850 lineto
+4376 2897 moveto
+4369 2904 lineto
+4366 2910 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 117 - Area: 3099.0
+% Bounds: 4378-4487 x 1461-1502
+newpath
+4487 3009 moveto
+4485 3005 lineto
+4480 3000 lineto
+4476 2998 lineto
+4464 2998 lineto
+4456 3000 lineto
+4449 3000 lineto
+4441 3002 lineto
+4434 3002 lineto
+4433 3003 lineto
+4426 3003 lineto
+4425 3004 lineto
+4391 3008 lineto
+4385 3011 lineto
+4378 3019 lineto
+4389 3026 lineto
+4409 3029 lineto
+4415 3031 lineto
+4420 3031 lineto
+4421 3032 lineto
+4426 3032 lineto
+4432 3034 lineto
+4461 3038 lineto
+4462 3039 lineto
+4470 3039 lineto
+4478 3036 lineto
+4485 3029 lineto
+4487 3024 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 118 - Area: 3084.0
+% Bounds: 4246-4291 x 1210-1316
+newpath
+4266 3290 moveto
+4258 3288 lineto
+4252 3281 lineto
+4250 3274 lineto
+4248 3238 lineto
+4247 3237 lineto
+4247 3228 lineto
+4246 3227 lineto
+4246 3192 lineto
+4247 3188 lineto
+4250 3184 lineto
+4257 3185 lineto
+4261 3188 lineto
+4281 3235 lineto
+4291 3265 lineto
+4289 3272 lineto
+4285 3278 lineto
+4275 3287 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 119 - Area: 3047.0
+% Bounds: 4246-4291 x 1210-1316
+newpath
+4266 3290 moveto
+4277 3285 lineto
+4288 3273 lineto
+4291 3265 lineto
+4281 3235 lineto
+4271 3211 lineto
+4269 3209 lineto
+4269 3207 lineto
+4266 3202 lineto
+4264 3195 lineto
+4262 3193 lineto
+4261 3189 lineto
+4258 3186 lineto
+4251 3184 lineto
+4248 3187 lineto
+4246 3192 lineto
+4246 3227 lineto
+4247 3228 lineto
+4247 3237 lineto
+4248 3238 lineto
+4250 3274 lineto
+4254 3283 lineto
+4259 3288 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 120 - Area: 3015.0
+% Bounds: 4366-4464 x 1382-1437
+newpath
+4461 3105 moveto
+4456 3113 lineto
+4450 3117 lineto
+4443 3118 lineto
+4436 3116 lineto
+4371 3080 moveto
+4367 3075 lineto
+4366 3068 lineto
+4373 3063 lineto
+4380 3063 lineto
+4391 3066 lineto
+4396 3066 lineto
+4407 3069 lineto
+4412 3069 lineto
+4440 3075 lineto
+4451 3076 lineto
+4457 3078 lineto
+4462 3082 lineto
+4464 3087 lineto
+4464 3095 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 121 - Area: 3005.5
+% Bounds: 4295-4366 x 1255-1341
+newpath
+4349 3243 moveto
+4344 3245 lineto
+4336 3244 lineto
+4329 3241 lineto
+4322 3235 lineto
+4312 3215 lineto
+4295 3172 lineto
+4295 3166 lineto
+4297 3159 lineto
+4310 3162 lineto
+4314 3165 lineto
+4355 3207 lineto
+4365 3222 lineto
+4366 3226 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 122 - Area: 2955.0
+% Bounds: 4366-4464 x 1382-1437
+newpath
+4463 3099 moveto
+4464 3087 lineto
+4462 3083 lineto
+4458 3079 lineto
+4451 3076 lineto
+4446 3076 lineto
+4445 3075 lineto
+4440 3075 lineto
+4439 3074 lineto
+4418 3071 lineto
+4412 3069 lineto
+4407 3069 lineto
+4380 3063 lineto
+4374 3063 lineto
+4370 3065 lineto
+4366 3069 lineto
+4368 3076 lineto
+4372 3080 lineto
+4439 3117 moveto
+4446 3118 lineto
+4453 3115 lineto
+4459 3108 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 123 - Area: 2911.5
+% Bounds: 4295-4365 x 1255-1341
+newpath
+4348 3243 moveto
+4365 3226 lineto
+4365 3223 lineto
+4355 3208 lineto
+4313 3165 lineto
+4307 3161 lineto
+4298 3159 lineto
+4296 3161 lineto
+4295 3172 lineto
+4307 3203 lineto
+4322 3234 lineto
+4327 3239 lineto
+4336 3244 lineto
+4344 3245 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 124 - Area: 2840.0
+% Bounds: 4339-4420 x 1314-1390
+newpath
+4415 3178 moveto
+4411 3182 lineto
+4400 3186 lineto
+4391 3185 lineto
+4368 3161 lineto
+4340 3128 lineto
+4339 3121 lineto
+4343 3110 lineto
+4346 3110 lineto
+4353 3115 lineto
+4386 3133 lineto
+4416 3152 lineto
+4419 3155 lineto
+4420 3160 lineto
+4419 3161 lineto
+4418 3171 lineto
+closepath
+0.9882352941176471 setgray
+fill
+
+% Contour 125 - Area: 2736.0
+% Bounds: 4339-4420 x 1314-1390
+newpath
+4410 3182 moveto
+4417 3174 lineto
+4419 3167 lineto
+4419 3161 lineto
+4420 3160 lineto
+4419 3156 lineto
+4415 3152 lineto
+4395 3139 lineto
+4344 3110 moveto
+4342 3112 lineto
+4339 3121 lineto
+4339 3125 lineto
+4368 3160 lineto
+4392 3185 lineto
+4394 3186 lineto
+4400 3186 lineto
+4407 3184 lineto
+closepath
+0.9921568627450981 setgray
+fill
+
+% Contour 126 - Area: 2116.0
+% Bounds: 2232-5333 x 2590-3484
+newpath
+5333 1910 moveto
+4711 1441 moveto
+3846 1162 moveto
+3601 1190 moveto
+3447 1303 moveto
+3462 1754 moveto
+3075 1877 moveto
+2490 1307 moveto
+2351 1505 moveto
+2326 1763 moveto
+2351 1505 moveto
+2490 1307 moveto
+3078 1878 moveto
+3461 1754 moveto
+3447 1302 moveto
+3601 1190 moveto
+3846 1162 moveto
+4712 1441 moveto
+5333 1909 moveto
+4853 1374 moveto
+3865 1045 moveto
+2839 1059 moveto
+2378 1238 moveto
+2232 1443 moveto
+2324 1764 moveto
+2238 1415 moveto
+2490 1178 moveto
+3093 1016 moveto
+3865 1045 moveto
+4854 1374 moveto
+closepath
+0.9921568627450981 setgray
+fill
+
+% Contour 127 - Area: 1969.5
+% Bounds: 3929-4042 x 1620-1738
+newpath
+4042 2880 moveto
+4037 2879 lineto
+3970 2815 moveto
+3931 2791 lineto
+3929 2783 lineto
+3949 2762 lineto
+3952 2762 lineto
+3955 2773 lineto
+3965 2790 lineto
+4040 2875 moveto
+closepath
+0.9921568627450981 setgray
+fill
+
+% Contour 128 - Area: 1773.5
+% Bounds: 3929-4042 x 1620-1738
+newpath
+4041 2880 moveto
+4042 2879 lineto
+3965 2791 moveto
+3957 2778 lineto
+3952 2763 lineto
+3950 2762 lineto
+3929 2784 lineto
+3931 2790 lineto
+3971 2815 lineto
+4029 2871 moveto
+closepath
+0.9921568627450981 setgray
+fill
+
+% Contour 129 - Area: 1547.0
+% Bounds: 3827-3974 x 1468-1505
+newpath
+3827 3013 moveto
+3831 2995 lineto
+3846 3002 lineto
+3863 3006 lineto
+3974 3011 moveto
+3972 3012 lineto
+3974 3013 lineto
+3861 3018 moveto
+3840 3025 lineto
+3831 3032 lineto
+3828 3032 lineto
+closepath
+0.9921568627450981 setgray
+fill
+
+% Contour 130 - Area: 1533.0
+% Bounds: 3827-3972 x 1468-1505
+newpath
+3827 3026 moveto
+3828 3031 lineto
+3830 3032 lineto
+3837 3026 lineto
+3861 3018 lineto
+3972 3012 moveto
+3965 3010 lineto
+3863 3006 moveto
+3846 3002 lineto
+3832 2995 lineto
+3830 2998 lineto
+3827 3013 lineto
+closepath
+0.9921568627450981 setgray
+fill
+
+% Contour 131 - Area: 1489.0
+% Bounds: 3843-4505 x 1168-1839
+newpath
+3987 3305 moveto
+3843 3144 moveto
+3977 3116 moveto
+3853 3179 moveto
+4084 3332 moveto
+4179 3329 moveto
+4204 3186 moveto
+4227 3319 moveto
+4245 3173 moveto
+4306 3285 moveto
+4286 3152 moveto
+4379 3231 moveto
+4331 3107 moveto
+4456 3133 moveto
+4362 3055 moveto
+4481 3081 moveto
+4370 3004 moveto
+4505 2986 moveto
+4366 2971 moveto
+4505 2921 moveto
+4469 2789 moveto
+4377 2701 moveto
+4144 2661 moveto
+4150 2863 moveto
+4123 2668 moveto
+4068 2684 moveto
+4112 2878 moveto
+4019 2708 moveto
+4094 2879 moveto
+4020 2973 moveto
+4070 3138 moveto
+3948 3275 moveto
+4027 3141 moveto
+3917 3225 moveto
+3882 3181 lineto
+3977 3118 moveto
+3883 3180 moveto
+3917 3225 lineto
+4036 3131 moveto
+3939 3229 moveto
+3959 3279 lineto
+4049 3187 moveto
+4020 2972 moveto
+4094 2888 moveto
+3994 2724 moveto
+4030 2705 lineto
+4112 2878 moveto
+4067 2684 moveto
+4123 2667 moveto
+4150 2863 moveto
+4142 2661 moveto
+4403 2717 moveto
+4505 2911 moveto
+4364 2958 moveto
+4504 2955 moveto
+4502 2999 lineto
+4364 3016 moveto
+4491 3048 moveto
+4354 3066 moveto
+4441 3159 moveto
+4334 3105 moveto
+4403 3208 moveto
+4291 3148 moveto
+4338 3263 moveto
+4304 3285 lineto
+4246 3173 moveto
+4235 3317 moveto
+4197 3184 moveto
+4179 3330 moveto
+closepath
+0.9921568627450981 setgray
+fill
+
+% Contour 132 - Area: 940.0
+% Bounds: 2588-2627 x 2272-2321
+newpath
+2614 2228 moveto
+2611 2228 lineto
+2608 2226 lineto
+2607 2223 lineto
+2605 2221 lineto
+2601 2212 lineto
+2599 2210 lineto
+2599 2209 lineto
+2598 2208 lineto
+2598 2207 lineto
+2589 2190 lineto
+2588 2185 lineto
+2592 2179 lineto
+2594 2179 lineto
+2596 2181 lineto
+2597 2181 lineto
+2599 2183 lineto
+2600 2183 lineto
+2602 2185 lineto
+2603 2185 lineto
+2606 2188 lineto
+2607 2188 lineto
+2609 2190 lineto
+2610 2190 lineto
+2612 2192 lineto
+2613 2192 lineto
+2615 2194 lineto
+2616 2194 lineto
+2622 2199 lineto
+2623 2199 lineto
+2627 2202 lineto
+2626 2203 lineto
+2626 2206 lineto
+2619 2219 lineto
+2619 2221 lineto
+2617 2223 lineto
+2616 2226 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 133 - Area: 880.0
+% Bounds: 2588-2626 x 2272-2321
+newpath
+2613 2228 moveto
+2616 2225 lineto
+2617 2222 lineto
+2619 2220 lineto
+2619 2218 lineto
+2626 2205 lineto
+2626 2202 lineto
+2622 2199 lineto
+2621 2199 lineto
+2618 2196 lineto
+2617 2196 lineto
+2615 2194 lineto
+2614 2194 lineto
+2612 2192 lineto
+2611 2192 lineto
+2609 2190 lineto
+2608 2190 lineto
+2606 2188 lineto
+2605 2188 lineto
+2602 2185 lineto
+2601 2185 lineto
+2593 2179 lineto
+2588 2185 lineto
+2588 2187 lineto
+2589 2188 lineto
+2589 2189 lineto
+2590 2190 lineto
+2590 2191 lineto
+2591 2192 lineto
+2591 2193 lineto
+2592 2194 lineto
+2592 2195 lineto
+2593 2196 lineto
+2593 2197 lineto
+2594 2198 lineto
+2594 2199 lineto
+2595 2200 lineto
+2599 2209 lineto
+2601 2211 lineto
+2601 2212 lineto
+2602 2213 lineto
+2605 2220 lineto
+2607 2222 lineto
+2608 2225 lineto
+2611 2228 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 134 - Area: 579.0
+% Bounds: 2334-2652 x 2236-3134
+newpath
+2603 2264 moveto
+2573 2182 moveto
+2591 2148 lineto
+2553 1989 moveto
+2547 1847 moveto
+2578 1702 moveto
+2652 1559 moveto
+2449 1366 moveto
+2392 1444 moveto
+2352 1545 moveto
+2334 1672 moveto
+2343 1783 moveto
+2377 1878 moveto
+2601 2264 moveto
+2377 1879 moveto
+2340 1765 moveto
+2355 1534 moveto
+2401 1427 moveto
+2453 1367 moveto
+2652 1559 moveto
+2578 1702 moveto
+2547 1847 moveto
+2553 1989 moveto
+2591 2148 moveto
+2573 2182 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 135 - Area: 404.5
+% Bounds: 3801-4388 x 1403-1885
+newpath
+3815 3097 moveto
+3801 2987 moveto
+3822 2879 moveto
+3877 2774 moveto
+3967 2685 moveto
+4084 2629 moveto
+4207 2615 moveto
+4312 2641 moveto
+4388 2689 moveto
+4286 2651 moveto
+4172 2643 moveto
+4075 2665 moveto
+3984 2715 moveto
+3902 2794 moveto
+3846 2888 moveto
+3817 2992 moveto
+3817 3097 moveto
+3817 2992 moveto
+3851 2876 moveto
+3912 2781 moveto
+3990 2710 moveto
+4083 2662 moveto
+4172 2643 moveto
+4286 2651 moveto
+4387 2690 moveto
+4307 2639 moveto
+4207 2615 moveto
+4084 2629 moveto
+3968 2685 moveto
+3883 2767 moveto
+3822 2879 moveto
+3801 2987 moveto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 136 - Area: 284.5
+% Bounds: 2932-2998 x 1795-1805
+newpath
+2998 2702 moveto
+2997 2703 lineto
+2997 2704 lineto
+2996 2704 lineto
+2995 2705 lineto
+2986 2705 lineto
+2985 2704 lineto
+2978 2704 lineto
+2977 2703 lineto
+2971 2703 lineto
+2970 2702 lineto
+2964 2702 lineto
+2963 2701 lineto
+2957 2701 lineto
+2956 2700 lineto
+2949 2700 lineto
+2948 2699 lineto
+2942 2699 lineto
+2941 2698 lineto
+2936 2698 lineto
+2935 2697 lineto
+2932 2697 lineto
+2933 2696 lineto
+2932 2695 lineto
+2942 2695 lineto
+2943 2696 lineto
+2951 2696 lineto
+2952 2697 lineto
+2960 2697 lineto
+2961 2698 lineto
+2994 2698 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 137 - Area: 277.5
+% Bounds: 2933-2997 x 1795-1805
+newpath
+2997 2703 moveto
+2997 2702 lineto
+2993 2698 lineto
+2961 2698 lineto
+2960 2697 lineto
+2952 2697 lineto
+2951 2696 lineto
+2943 2696 lineto
+2942 2695 lineto
+2934 2695 lineto
+2933 2696 lineto
+2936 2698 lineto
+2941 2698 lineto
+2942 2699 lineto
+2948 2699 lineto
+2949 2700 lineto
+2956 2700 lineto
+2957 2701 lineto
+2963 2701 lineto
+2964 2702 lineto
+2970 2702 lineto
+2971 2703 lineto
+2977 2703 lineto
+2978 2704 lineto
+2985 2704 lineto
+2986 2705 lineto
+2995 2705 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 138 - Area: 258.0
+% Bounds: 2765-2922 x 1889-2107
+newpath
+2922 2611 moveto
+2870 2587 moveto
+2811 2528 moveto
+2778 2463 moveto
+2765 2393 moveto
+2778 2463 moveto
+2811 2527 moveto
+2871 2587 moveto
+2913 2610 lineto
+2922 2610 lineto
+2767 2393 moveto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 139 - Area: 166.5
+% Bounds: 4068-4334 x 1345-1619
+newpath
+4151 3149 moveto
+4195 3155 lineto
+4231 3147 lineto
+4195 3155 lineto
+4158 3151 lineto
+4127 3138 lineto
+4095 3110 lineto
+4078 3082 lineto
+4068 3044 lineto
+4069 3007 lineto
+4080 2969 lineto
+4106 2929 lineto
+4155 2894 lineto
+4208 2881 moveto
+4261 2892 moveto
+4292 2911 lineto
+4317 2940 lineto
+4330 2973 lineto
+4334 3019 lineto
+4329 2969 lineto
+4311 2932 lineto
+4277 2901 lineto
+4233 2883 lineto
+4185 2884 lineto
+4141 2902 lineto
+4106 2930 lineto
+4078 2974 lineto
+4068 3014 lineto
+4077 3079 moveto
+4107 3122 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 140 - Area: 136.5
+% Bounds: 4097-4331 x 1355-1591
+newpath
+4172 3141 moveto
+4231 3145 moveto
+4190 3145 lineto
+4166 3139 lineto
+4138 3124 lineto
+4118 3104 lineto
+4106 3084 lineto
+4097 3050 lineto
+4098 3019 lineto
+4108 2985 lineto
+4134 2945 lineto
+4170 2920 lineto
+4212 2909 lineto
+4262 2915 lineto
+4285 2927 lineto
+4307 2948 lineto
+4324 2980 lineto
+4331 3018 lineto
+4324 2980 lineto
+4301 2942 lineto
+4278 2923 lineto
+4237 2909 lineto
+4194 2912 lineto
+4156 2928 lineto
+4127 2954 lineto
+4105 2993 lineto
+4097 3026 lineto
+4105 3081 moveto
+4133 3119 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 141 - Area: 124.0
+% Bounds: 3877-3985 x 1596-1668
+newpath
+3985 2904 moveto
+3978 2903 lineto
+3908 2866 moveto
+3891 2860 lineto
+3884 2863 lineto
+3877 2858 lineto
+3877 2855 lineto
+3891 2832 lineto
+3894 2832 lineto
+3909 2851 lineto
+3985 2902 moveto
+3908 2851 moveto
+3893 2832 lineto
+3882 2847 lineto
+3878 2858 lineto
+3885 2863 lineto
+3888 2859 lineto
+3913 2868 lineto
+3961 2894 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 142 - Area: 19.5
+% Bounds: 3829-3975 x 1358-1439
+newpath
+3842 3142 moveto
+3829 3078 moveto
+3838 3076 lineto
+3874 3081 lineto
+3975 3061 moveto
+3962 3068 lineto
+3859 3099 moveto
+3846 3113 lineto
+3844 3141 lineto
+3845 3116 lineto
+3858 3099 lineto
+3975 3062 moveto
+3874 3081 moveto
+3838 3076 lineto
+3830 3078 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 143 - Area: 18.5
+% Bounds: 3842-4012 x 1529-1589
+newpath
+4012 2971 moveto
+3892 2944 moveto
+3848 2944 lineto
+3842 2941 lineto
+3853 2911 lineto
+3877 2927 lineto
+4012 2969 moveto
+3877 2927 moveto
+3853 2912 lineto
+3842 2937 lineto
+3845 2943 lineto
+3898 2945 moveto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 144 - Area: 4.0
+% Bounds: 4390-4392 x 1764-1767
+newpath
+4390 2735 moveto
+4391 2736 lineto
+4392 2735 lineto
+4392 2734 lineto
+4391 2733 lineto
+4390 2734 lineto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+% Contour 145 - Area: 3.0
+% Bounds: 3017-3211 x 3389-3411
+newpath
+3017 1110 moveto
+3033 1104 lineto
+3193 1089 moveto
+3211 1091 lineto
+3193 1089 lineto
+3033 1104 moveto
+3017 1109 lineto
+3037 1111 lineto
+3211 1093 moveto
+3049 1110 moveto
+closepath
+0.996078431372549 setgray
+0.5 setlinewidth
+stroke
+
+showpage
+%%EndDocument

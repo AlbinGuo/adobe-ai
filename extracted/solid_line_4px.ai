@@ -1,0 +1,38 @@
+%!AI-Adobe_Illustrator-3.0
+%%Creator: Smooth Solid Lines
+%%Title: solid_line_4px.ai
+%%Pages: 1
+%%BoundingBox: 0 0 5334 3000
+
+<<
+  /PageSize [5334 3000]
+>> setpagedevice
+
+% SMOOTH SOLID LINES
+% 1 shapes
+% Line width: 4px
+
+0 setgray
+0.05555555555555555 setlinewidth
+1 setlinecap
+1 setlinejoin
+
+
+% Shape 1 (11 points)
+newpath
+3339 1690 moveto
+3015 1958 lineto
+2614 2053 lineto
+2197 1906 lineto
+1883 1570 lineto
+1724 1169 lineto
+1848 894 lineto
+2229 790 lineto
+2760 881 lineto
+3216 1083 lineto
+3421 1377 lineto
+closepath
+stroke
+
+showpage
+%%EndDocument

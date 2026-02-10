@@ -10,8 +10,10 @@ build/
 
 # PDFs and generated files
 *.pdf
-extracted/
 output/
+
+# Keep demo folder tracked
+!demo/
 
 # OS
 .DS_Store

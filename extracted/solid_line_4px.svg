@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="5334" height="3000" viewBox="0 0 5334 3000">
+  <title>Smooth Solid Lines - 1 shapes</title>
+  <desc>Smooth filled lines for printing, width: 4px</desc>
+  
+  <rect width="100%" height="100%" fill="white"/>
+  
+  <g id="lines" stroke="black" fill="none" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <path id="s0" d="M 3339 1310 L 3015 1042 L 2614 947 L 2197 1094 L 1883 1430 L 1724 1831 L 1848 2106 L 2229 2210 L 2760 2119 L 3216 1917 L 3421 1623 Z"/>
+  </g>
+</svg>
