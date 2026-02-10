@@ -1,22 +1,9 @@
 {
-  "buildCommand": null,
   "outputDirectory": ".",
-  "framework": "static",
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "/$1"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/extracted/(.*)",
-      "headers": [
-        {
-          "key": "Access-Control-Allow-Origin",
-          "value": "*"
-        }
-      ]
     }
   ]
 }
