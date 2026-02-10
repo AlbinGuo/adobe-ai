@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>线条展示</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        
+        .controls {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        label {
+            color: #666;
+            font-size: 14px;
+        }
+        
+        input[type="range"] {
+            width: 150px;
+        }
+        
+        select {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        
+        .preview-container {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .svg-wrapper {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            min-height: 500px;
+            background: #fff;
+        }
+        
+        .svg-wrapper svg {
+            max-width: 100%;
+            max-height: 70vh;
+            height: auto;
+        }
+        
+        .file-info {
+            padding: 15px 20px;
+            background: #f9f9f9;
+            border-top: 1px solid #eee;
+            font-size: 13px;
+            color: #666;
+        }
+        
+        .file-info span {
+            margin-right: 20px;
+        }
+        
+        .download-btn {
+            padding: 10px 20px;
+            background: #2196F3;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background 0.2s;
+        }
+        
+        .download-btn:hover {
+            background: #1976D2;
+        }
+        
+        .pdf-btn {
+            background: #e74c3c;
+        }
+        
+        .pdf-btn:hover {
+            background: #c0392b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>线条矢量图展示</h1>
+        
+        <div class="controls">
+            <div class="control-group">
+                <label>线条粗细:</label>
+                <input type="range" id="strokeWidth" min="1" max="10" value="4" step="0.5">
+                <span id="strokeValue">4px</span>
+            </div>
+            
+            <div class="control-group">
+                <label>线条颜色:</label>
+                <select id="strokeColor">
+                    <option value="black">黑色</option>
+                    <option value="#e74c3c">红色</option>
+                    <option value="#3498db">蓝色</option>
+                    <option value="#2ecc71">绿色</option>
+                    <option value="#9b59b6">紫色</option>
+                </select>
+            </div>
+            
+            <div class="control-group">
+                <label>背景颜色:</label>
+                <select id="bgColor">
+                    <option value="white">白色</option>
+                    <option value="#f0f0f0">浅灰</option>
+                    <option value="#1a1a1a">黑色</option>
+                </select>
+            </div>
+            
+            <button class="download-btn" onclick="downloadSVG()">下载SVG</button>
+            <button class="download-btn" onclick="downloadAI()">下载AI</button>
+            <button class="download-btn pdf-btn" onclick="exportPDF()">导出PDF</button>
+        </div>
+        
+        <div class="preview-container">
+            <div class="svg-wrapper" id="svgWrapper">
+                <!-- SVG将在这里加载 -->
+            </div>
+            <div class="file-info">
+                <span id="fileInfo">加载中...</span>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        const svgFiles = [
+            'extracted/result_4px.svg',
+            'extracted/smooth_4px.svg',
+            'extracted/final_4px.svg',
+            'extracted/very_smooth.svg'
+        ];
+        
+        let currentSVG = null;
+        let currentFile = '';
+        
+        async function loadSVG(file) {
+            try {
+                const response = await fetch(file);
+                if (!response.ok) throw new Error('文件不存在');
+                
+                const svgText = await response.text();
+                const wrapper = document.getElementById('svgWrapper');
+                wrapper.innerHTML = svgText;
+                
+                currentSVG = wrapper.querySelector('svg');
+                currentFile = file;
+                
+                if (currentSVG) {
+                    currentSVG.style.background = document.getElementById('bgColor').value;
+                    updateStyles();
+                    
+                    const paths = currentSVG.querySelectorAll('path, line');
+                    document.getElementById('fileInfo').textContent = 
+                        `文件: ${file} | 路径数: ${paths.length}`;
+                }
+            } catch (error) {
+                document.getElementById('svgWrapper').innerHTML = 
+                    `<p style="color: #999;">无法加载文件: ${file}</p>`;
+            }
+        }
+        
+        function updateStyles() {
+            if (!currentSVG) return;
+            
+            const strokeWidth = document.getElementById('strokeWidth').value;
+            const strokeColor = document.getElementById('strokeColor').value;
+            
+            document.getElementById('strokeValue').textContent = strokeWidth + 'px';
+            
+            const elements = currentSVG.querySelectorAll('path, line, g');
+            elements.forEach(el => {
+                if (el.tagName === 'svg') {
+                    el.style.background = document.getElementById('bgColor').value;
+                } else if (el.getAttribute('stroke') || el.style.stroke) {
+                    el.setAttribute('stroke-width', strokeWidth);
+                    el.setAttribute('stroke', strokeColor);
+                }
+            });
+        }
+        
+        function downloadSVG() {
+            if (!currentSVG) return;
+            
+            const svgData = new XMLSerializer().serializeToString(currentSVG);
+            const blob = new Blob([svgData], { type: 'image/svg+xml' });
+            const url = URL.createObjectURL(blob);
+            
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'smooth_lines.svg';
+            a.click();
+            
+            URL.revokeObjectURL(url);
+        }
+        
+        function downloadAI() {
+            const aiFile = currentFile.replace('.svg', '.ai');
+            const a = document.createElement('a');
+            a.href = aiFile;
+            a.download = aiFile.split('/').pop();
+            a.click();
+        }
+        
+        function exportPDF() {
+            const printWindow = window.open('', '_blank');
+            const svgWrapper = document.getElementById('svgWrapper');
+            const svgElement = svgWrapper.querySelector('svg');
+            
+            if (!svgElement) {
+                alert('没有可导出的SVG内容');
+                return;
+            }
+            
+            const svgData = new XMLSerializer().serializeToString(svgElement);
+            const strokeWidth = document.getElementById('strokeWidth').value;
+            const strokeColor = document.getElementById('strokeColor').value;
+            const bgColor = document.getElementById('bgColor').value;
+            
+            const printContent = `
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>导出PDF</title>
+                    <style>
+                        * { margin: 0; padding: 0; box-sizing: border-box; }
+                        body {
+                            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+                            display: flex;
+                            flex-direction: column;
+                            align-items: center;
+                            padding: 20px;
+                            background: ${bgColor};
+                        }
+                        h2 { margin-bottom: 20px; color: #333; }
+                        .svg-container {
+                            max-width: 100%;
+                            margin-bottom: 20px;
+                        }
+                        .svg-container svg {
+                            max-width: 100%;
+                            height: auto;
+                        }
+                        .info {
+                            color: #666;
+                            font-size: 12px;
+                            text-align: center;
+                        }
+                        @media print {
+                            body { padding: 0; }
+                            .no-print { display: none; }
+                        }
+                        @page {
+                            size: landscape;
+                            margin: 1cm;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <div class="no-print">
+                        <h2>矢量线条导出</h2>
+                        <p style="margin-bottom: 20px; color: #666;">点击下方按钮保存PDF</p>
+                        <button onclick="window.print()" style="
+                            padding: 12px 30px;
+                            font-size: 16px;
+                            background: #2196F3;
+                            color: white;
+                            border: none;
+                            border-radius: 4px;
+                            cursor: pointer;
+                        ">保存为PDF</button>
+                    </div>
+                    <div class="svg-container">
+                        ${svgData.replace(/stroke-width="[^"]*"/g, `stroke-width="${strokeWidth}"`)}
+                    </div>
+                    <p class="info">线条宽度: ${strokeWidth}px | 路径数: ${svgElement.querySelectorAll('path').length}</p>
+                </body>
+                </html>
+            `;
+            
+            printWindow.document.write(printContent);
+            printWindow.document.close();
+        }
+        
+        // 事件监听
+        document.getElementById('strokeWidth').addEventListener('input', updateStyles);
+        document.getElementById('strokeColor').addEventListener('change', updateStyles);
+        document.getElementById('bgColor').addEventListener('change', updateStyles);
+        
+        // 初始化
+        loadSVG(svgFiles[0]);
+    </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "name": "adobe-ai",
+  "version": "1.0.0",
+  "description": "PDF to Vector Line Converter - Convert PDF images to smooth vector lines for Adobe Illustrator and printing",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "pdf",
+    "vector",
+    "svg",
+    "illustrator",
+    "tracing"
+  ],
+  "author": "",
+  "license": "MIT"
+}
